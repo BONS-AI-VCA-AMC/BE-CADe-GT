@@ -501,14 +501,14 @@ if __name__ == "__main__":
     parser.add_argument("--seg_criterion", type=str, default="DiceBCE",
                         help="MSE, BCE, Dice, DiceBCE, IoU, Focal, DiceFocal, "
                              "MultiMaskMSE, MultiMaskBCE, MultiMaskDice, MultiMaskDiceBCE, "
-                             "JIGS, JIGSBCE, MultiMaskDiceW, MultiMaskDiceBCEW")
+                             "MultiMaskDiceW, MultiMaskDiceBCEW")
     parser.add_argument("--label_smoothing", type=float, default=0.01)
     parser.add_argument('--focal_alpha_cls', type=float, default=-1.0)
     parser.add_argument('--focal_gamma_cls', type=float, default=1.0)
     parser.add_argument('--focal_alpha_seg', type=float, default=-1.0)
     parser.add_argument('--focal_gamma_seg', type=float, default=1.0)
     parser.add_argument('--seg_metric', type=str, default='Dice',
-                        help='Dice, IoU, JIGS, MultiMaskDice, MultiMaskDiceW')
+                        help='Dice, MultiMaskDice, MultiMaskDiceW')
 
     # AUGMENTATION PARAMS
     parser.add_argument("--imagesize", type=int, default=256)
