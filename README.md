@@ -1,4 +1,4 @@
-# Evaluation of Training Strategies with Multi-Expert Consensus for Classification and Precise Localisation of Barrett's Neoplasia
+<h1>Evaluation of Training Strategies with Multi-Expert Consensus for Classification and Precise Localisation of Barrett's Neoplasia</h1>
 
 [Carolus H.J. Kusters](https://github.com/chjkusters)<sup>1 :email:</sup>, Tim G.W. Boers<sup>1</sup>, Tim J.M. Jaspers<sup>1</sup>, Martijn R. Jong<sup>2</sup>, Rixta A.H. van Eijck van Heslinga<sup>2</sup>, Albert J. de Groof<sup>2</sup>, Jacques J. Bergman<sup>2</sup>, Fons van der Sommen<sup>1</sup>, Peter H.N. de With<sup>1</sup>
  
