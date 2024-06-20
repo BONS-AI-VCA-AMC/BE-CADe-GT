@@ -1,7 +1,8 @@
 <div align="center">
+<h1>Publication</h1>
 <h3>Evaluation of Training Strategies with Multi-Expert Consensus for Classification and Precise Localisation of Barrett's Neoplasia</h3>
 
-[Carolus H.J. Kusters](https://github.com/chjkusters)<sup>1 :email:</sup>, Tim G.W. Boers<sup>1</sup>, Tim J.M. Jaspers<sup>1</sup>, Martijn R. Jong<sup>2</sup>, Rixta A.H. van Eijck van Heslinga<sup>2</sup>, Albert J. de Groof<sup>2</sup>, Jacques J. Bergman<sup>2</sup>, Fons van der Sommen<sup>1</sup>, Peter H.N. de With<sup>1</sup>
+[Carolus H.J. Kusters](https://github.com/chjkusters)<sup>1 :email:</sup>, [Tim G.W. Boers](https://scholar.google.nl/citations?user=_TdckGAAAAAJ&hl=nl&oi=ao)<sup>1</sup>, [Tim J.M. Jaspers](https://scholar.google.nl/citations?user=nwfiV2wAAAAJ&hl=nl&oi=ao)<sup>1</sup>, [Martijn R. Jong](https://scholar.google.nl/citations?user=QRNrL-oAAAAJ&hl=nl&oi=ao)<sup>2</sup>, Rixta A.H. van Eijck van Heslinga<sup>2</sup>, Albert J. de Groof<sup>2</sup>, [Jacques J. Bergman](https://scholar.google.nl/citations?user=4SFBE0IAAAAJ&hl=nl&oi=ao)<sup>2</sup>, [Fons van der Sommen](https://scholar.google.nl/citations?user=qFiLkCAAAAAJ&hl=nl&oi=ao)<sup>1</sup>, Peter H.N. de With<sup>1</sup>
  
 <sup>1</sup>  Department of Electrical Engineering, Video Coding & Architectures, Eindhoven University of Technology <br /> <sup>2</sup>  Department of Gastroenterology and Hepatology, Amsterdam University Medical Centers, University of Amsterdam
 
