@@ -12,11 +12,6 @@
 
 </div>
 
-
-[//]: # ( This repository contains the codebases for the following publication:)
-
-[//]: # ( - Carolus H.J. Kusters *et al.* - Evaluation of Training Strategies with Multi-Expert Consensus for Classification and Precise Localisation of Barrett's Neoplasia <br />  *Third Workshop on Cancer Prevention, detection, and intervenTion &#40;CaPTion&#41; - Satellite Event MICCAI 2024*)
-
 ## Abstract
 Place Abstract here...
 
